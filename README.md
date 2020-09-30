@@ -177,7 +177,7 @@ If Scrolling event use Next number (previousEventNumber+1)
 
 
 # 2 Click Event
-If Scrolling event use Next number (previousEventNumber+2)
+If Click event use Second Next number (previousEventNumber+2)
 ```javascript
 {
 "e-6"{
