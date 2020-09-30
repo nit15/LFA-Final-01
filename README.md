@@ -197,7 +197,7 @@ If Scrolling event use Next number (previousEventNumber+2)
                     "delay": 0,
                     "easing": "",
                     "duration": 0,
-                    "actionListId": "{ACTION ID]",
+                    "actionListId": "[ACTION ID]",
                     "affectedElements": {},
                     "playInReverse": false,
                     "autoStopEventId": "e-9"
