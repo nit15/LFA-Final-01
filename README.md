@@ -15,7 +15,7 @@ If Scrolling event use Next number (previousEventNumber+1)
 ```javascript
 "e-6"{
         .
-        .
+    // exemple
         .
 },
 {"[Event Number] (e-7) ": {
@@ -182,7 +182,7 @@ If Scrolling event use Next number (previousEventNumber+2)
 {
 "e-6"{
         .
-        .
+    // exemple
         .
 },
 
