@@ -1,3 +1,9 @@
+#Author:
+Jay suthar 
+Nitya Parikh
+Megh thakkar
+Smit kadiya
+
 # IDs
 jay01.webflow.io:
 `5f6d832f31efc5edb474e9bd`
