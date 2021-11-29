@@ -1,7 +1,7 @@
 #Author:
-Jay suthar 
-Nitya Parikh
-Megh thakkar
+Jay suthar, 
+Nitya Parikh,
+Megh thakkar,
 Smit kadiya
 
 # IDs
